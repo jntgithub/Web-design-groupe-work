@@ -1,0 +1,61 @@
+
+.btn{
+    left: 5%;  
+}
+.btn button:hover {
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.login-box {
+background-color: #f38a00;
+width: 30%;
+height: 90%;
+
+border: 2px solid #0000 ;
+margin-top: 250px;
+text-align: center;
+margin-left: 400px;
+}
+.login-box label{
+color: white;
+}
+.login-box input[type=text]{
+
+width: 80%;
+height: 5%;
+padding: 2px 5px;
+margin: auto;
+box-sizing: border-box;
+text-align: center;     
+margin-left: 70px;
+margin-top: 20px;
+
+}
+.login-box input[type=date]{
+
+width: 80%;
+height: 5%;
+padding: 2px 5px;
+margin: auto;
+box-sizing: border-box;
+text-align: center;     
+margin-left: 80px;
+margin-top: 30px;
+
+}
+.login-box label{
+margin-left: 30px;
+}
+.submit{
+width: 50%;
+background-color: #a8af4c;
+color: white;
+padding: 14px 20px;
+margin: 8px 0;
+border: none;
+border-radius: 4px;
+
+}
+
+.submit:hover {
+background-color: #ee6409;
+}
