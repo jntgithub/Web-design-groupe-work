@@ -1,0 +1,41 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+
+  background-image:url(bg.png);
+  background-position: center;
+  background-blend-mode:darken ;
+  background-size: cover;
+}
+.homeheader{
+    position: absolute;
+    background: #ffff;
+   text-align: center;
+   left: 45%;  
+   font-family: 'quicksand',sans-serif; 
+   letter-spacing: 30px; 
+   bottom: 65%;
+}
+.homeheader1{
+    position: absolute;
+    background: #ffff;
+   text-align: center;
+   left: 54%;    
+   bottom: 60%;
+   font-family: 'quicksand',sans-serif;
+}
+.homeheader2{
+    position: absolute;
+    background: #ffff;
+   text-align: center;
+   left: 40%;    
+   bottom: 50%;
+   font-family: 'quicksand',sans-serif;
+   letter-spacing: 15px; 
+  
+}
